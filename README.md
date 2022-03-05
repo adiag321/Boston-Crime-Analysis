@@ -21,31 +21,31 @@ The Data is collected from Kaggle: <a href = "https://data.boston.gov/dataset/cr
 
 # Results
 
-1. Top 15 Areas with Highest Crime Rate in Boston:
+1. Top 15 Areas with Highest Crime Rate in Boston -
 
 <img src = "Images/Story 1.png"> <br>
 
 From the above plot we can interpret that "Washington Street" has the highest number of Crime cases occured, so we can assume that it is the most unsafe place to live in. While, "Warren Street" has the least number of Crime Cases. <br>
  
- 2. Average Cases V/s Total Number of Shooting Reported in Boston:
+ 2. Average Cases V/s Total Number of Shooting Reported in Boston -
 
 <img src = "Images/Story 2.png"> <br>
 
 We can interpret from the graph that in "AUGUST", highest number of Shooting Cases occur followed by "JUNE" and "MAY". While in "September" has the highest Crime Cases Reported even though there are very less number of Shooting Cases occuring. <br>
 
- 3. Top 10 Offenses in Boston:
+ 3. Top 10 Offenses in Boston -
 
 <img src = "Images/Story 6.png"> <br>
 
 From the above plot, we can interpret that highest number of Crime Rate  occured for "Personal Investigation" offense while the lowest crime rate occured during "Verbal Dispute". <br>
 
-4. Top 15 Offenses That were Reported in Boston:
+4. Top 15 Offenses That were Reported in Boston -
 
 <img src = "Images/Story 8.png"> <br>
 
 We could interpret that "Investigate Property" offense has the highest number of Shooting cases reported while "Residential Burglary" has the lowest number of Shooting cases Reported. <br>
 
-5. Total Number of Crime Rate V/s Number of Crime Cases Reported in Boston:
+5. Total Number of Crime Rate V/s Number of Crime Cases Reported in Boston -
 
 <img src = "Images/Story 11.png"> <br>
 
