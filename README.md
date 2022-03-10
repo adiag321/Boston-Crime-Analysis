@@ -1,10 +1,10 @@
 # <p align = 'center'>Boston Crime Analysis</p>
 
-Crime incident reports are provided by Boston Police Department (BPD) to document the initial details surrounding an incident to which BPD officers respond. This is a dataset containing records from the new crime incident report system, which includes a reduced set of fields focused on capturing the type of incident as well as when and where it occurred. Records in the new system begin in June of 2015. </br>
+The Boston Police Department (BPD) provides crime event reports to chronicle the basic information surrounding an occurrence to which BPD officers respond. This is a dataset of records from the new crime incident report system, which has a smaller number of fields focused on documenting the type of occurrence and when and where it happened. The new system began keeping records in June of 2015. </br>
 
-The Analyze Boston Data Exports posted now are the updated incident data from the Mark43 RMS Database which launched in September of 2019 and is complete through present with the exclusion of data that falls under MGL ch.41 s.98f. The 2019 data that was originally posted contained combined exports from the Intergraph RMS and the Mark43 RMS during 2019 but the Extract/Transfer/Load process was not updated during the transition. We are continuing work on producing the gap data from January 2019 to September 2019 from our legacy Intregraph RMS and will be publishing this as soon as the work is complete. </br>
+The updated incident data from the Mark43 RMS Database, which started in September of 2019 and is complete, except for data that falls under MGL ch.41 s.98f, is now available in the Analyze Boston Data Exports. The initial 2019 data included combined exports from the Intergraph RMS and the Mark43 RMS for the year; however, the Extract/Transfer/Load procedure was not updated throughout the transfer. We're still working on getting the gap data from our legacy Intregraph RMS from January to September 2019, and we'll post it as soon as we're done. </br>
 
-The Data is collected from Kaggle: <a href = "https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system"> Link </a> </br>
+The Data is collected from Kaggle: <a href = "https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system">Link</a> </br>
 
 # Data Defination
 
