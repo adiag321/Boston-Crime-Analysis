@@ -1,14 +1,16 @@
-# <p align = 'center'>Boston Crime Analysis</p>
+# <p align = 'center'>Boston Crime Analysis (2021)</p>
+
+## PROJECT OVERVIEW
 
 The Boston Police Department (BPD) provides crime event reports to chronicle the basic information surrounding an occurrence to which BPD officers respond. This is a dataset of records from the new crime incident report system, which has a smaller number of fields focused on documenting the type of occurrence and when and where it happened. The new system began keeping records in June of 2015. </br>
 
 The updated incident data from the Mark43 RMS Database, which started in September of 2019 and is complete, except for data that falls under MGL ch.41 s.98f, is now available in the Analyze Boston Data Exports. The initial 2019 data included combined exports from the Intergraph RMS and the Mark43 RMS for the year; however, the Extract/Transfer/Load procedure was not updated throughout the transfer. We're still working on getting the gap data from our legacy Intregraph RMS from January to September 2019, and we'll post it as soon as we're done. </br>
 
-The Data is collected from Kaggle: <a href = "https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system">Link</a> </br>
+The Data is collected from Kaggle - https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system
 
-Finally I generated a story using Tableau to support my findings: <a href = "https://public.tableau.com/app/profile/aditya.agarwal1269/viz/BostonCrimeAnalysis_16448932240530/Story1">Link</a>
+Finally I generated a story using `Tableau` to support my findings: <a href = "https://public.tableau.com/app/profile/aditya.agarwal1269/viz/BostonCrimeAnalysis_16448932240530/Story1">https://public.tableau.com/app/profile/aditya.agarwal1269/viz/BostonCrimeAnalysis_16448932240530/Story1</a>
 
-# Data Defination
+## DATA DEFINATION
 
 1. incident_num - Internal BPD report number
 2. offense_code - Numerical code of offense description
@@ -21,7 +23,7 @@ Finally I generated a story using Tableau to support my findings: <a href = "htt
 9. UCR_Part - Universal Crime Reporting Part number (1,2, 3)
 10. street - Street name the incident took place
 
-# Results
+## RESULTS AND INTERPRETATION
 
 1. Top 15 Areas with Highest Crime Rate in Boston -
 
@@ -53,4 +55,4 @@ We could interpret that "Investigate Property" offense has the highest number of
 
 We can interpret from the above graph that, "B2" district has the highest number of Crime Rates occured among other districts while "A15" has the lowest number of Crime Rates Occured and Reported at the same time. <br>
 
-# Conclusion
+## CONCLUSION
