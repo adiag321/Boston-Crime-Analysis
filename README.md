@@ -56,3 +56,7 @@ We could interpret that "Investigate Property" offense has the highest number of
 We can interpret from the above graph that, "B2" district has the highest number of Crime Rates occured among other districts while "A15" has the lowest number of Crime Rates Occured and Reported at the same time. <br>
 
 ## CONCLUSION
+
+Based on the analysis of Boston's crime data, several key patterns emerge that are critical for strategic resource allocation. **Washington Street** and **District B2** have been identified as high-priority areas with the highest frequency of crime, whereas **Warren Street** and **District A15** remain relatively safe with significantly lower incident rates.
+
+Seasonal trends indicate that while overall crime reports peak in **September**, violent incidents involving shootings are most prevalent during the summer, particularly in **August**. Furthermore, the nature of offenses varies, with "Investigate Property" showing a high correlation with shootings, while "Personal Investigation" remains the most common overall offense. These insights suggest that law enforcement efforts should be intensified in identified hotspots and during specific high-risk months to effectively mitigate crime.
